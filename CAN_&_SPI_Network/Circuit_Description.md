@@ -1,1 +1,0 @@
-#Circuit Connection Description
